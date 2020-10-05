@@ -16,5 +16,6 @@ h1, h2{
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-shadow: 0px 0px 20px wheat;
+    color: green;
 }
 
