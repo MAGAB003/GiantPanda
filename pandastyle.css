@@ -10,5 +10,9 @@ body{
 .column {
     width: 600px;
     margin:40px auto;
+}
 
+h1{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
