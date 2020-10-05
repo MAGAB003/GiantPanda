@@ -14,5 +14,9 @@ body{
     margin:40px auto;
     border:dotted 20px #229292;
     border-width: 10px;
-    padding:20px;
+    padding:30px;
+}
+
+p{
+    border: solid 5px #929292;
 }
