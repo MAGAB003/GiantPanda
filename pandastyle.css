@@ -5,13 +5,18 @@ img{
 body{
     font-family: Arial, Helvetica, sans-serif;
     line-height: 25px;
+    
+    
 }
 
 .column {
     width: 600px;
     margin:40px auto;
-}
 
+p{
+    border: solid 5px #929292;
+    padding: 20px;
+    border-radius: 10px;
 h1, h2{
     font-size: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
